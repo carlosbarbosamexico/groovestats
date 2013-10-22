@@ -155,6 +155,8 @@ if (!window.GrooveStats) {
         this.cookieManager();
         
         var url = this.encodeUrl();
+        //uncomment one of the following to debug
+        //alert(url);
         //console.log(url);
         this.injectTrackingScript(url);
         
@@ -198,9 +200,3 @@ if (!window.GrooveStats) {
 }
 
 GrooveStats.init();
-    
-    
-    
-    
-    
-    
