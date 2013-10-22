@@ -19,5 +19,8 @@ Example jsfiddle:
 
 [http://jsfiddle.net/x5EyB/](http://jsfiddle.net/x5EyB/)
 
+License:
+Groovestats is released under the MIT License.
+
 
 
